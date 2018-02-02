@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="wordcountscala">
+    <output-path>H:/sparkJar</output-path>
+    <root id="archive" name="wordcountscala.jar">
+      <element id="module-output" name="sparkUseScala" />
+      <element id="library" level="project" name="spark-core_2.11-2.2.1" />
+    </root>
+  </artifact>
+</component>
